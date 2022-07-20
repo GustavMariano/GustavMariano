@@ -1,16 +1,32 @@
-### Hi there 👋
+### Gustavo Mariano
 
-<!--
-**GustavMariano/GustavMariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥 Desenvolvedor Back-End
+- ⚙ Estudando Data Science & Machine Learning
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="70" width="70" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+  <img align="center" alt="Python" height="70" width="70" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+                 
+</div>
+
+##
+
+<div>
+  <a href="https://github.com/GustavMariano">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GustavMariano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavMariano&layout=compact&langs_count=16&theme=dark"/>
+</div>
+ 
+ ##
+ 
+ <div>
+ <a href="https://instagram.com/gustav.mariano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:gustavomariano2001@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-mariano-68815a235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ </div>
+ 
