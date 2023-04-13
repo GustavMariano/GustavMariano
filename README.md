@@ -1,15 +1,15 @@
 ### Gustavo Mariano
 
 - 🖥 Desenvolvedor Back-End
-- ⚙ Estudando Data Science & Machine Learning
 
 ##
 
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="70" width="70" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="Python" height="70" width="70" 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Java" height="70" width="70" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
                  
 </div>
 
