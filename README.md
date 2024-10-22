@@ -1,6 +1,6 @@
 ### Gustavo Mariano
 
-- 🖥 Desenvolvedor FullStack
+- 🖥 Backend Developer
 
 ##
 
